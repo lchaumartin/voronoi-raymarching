@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CrackedGlass
+  m_Name: Cracked6
   m_Shader: {fileID: -6465566751694194690, guid: 9002ed680f55f934ba61cdbab1a2b7fe,
     type: 3}
   m_ShaderKeywords: 
@@ -57,7 +57,7 @@ Material:
     - Vector1_A476A81E: 0.9
     - Vector1_EE1B65A8: 0.72
     - Vector1_F7B2DE33: 0.002
-    - Vector1_F8AAE5C2: 2.39
+    - Vector1_F8AAE5C2: 1.8
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1

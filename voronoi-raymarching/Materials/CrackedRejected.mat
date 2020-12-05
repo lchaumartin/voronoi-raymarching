@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CrackedGlassRejected
+  m_Name: CrackedRejected
   m_Shader: {fileID: -6465566751694194690, guid: 9002ed680f55f934ba61cdbab1a2b7fe,
     type: 3}
   m_ShaderKeywords: 
